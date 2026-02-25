@@ -8,7 +8,7 @@ __pycache__/
 # Virtual Environment
 venv/
 env/
-myenv/
+myvenv/
 .venv/
 
 # Jupyter Notebook checkpoints

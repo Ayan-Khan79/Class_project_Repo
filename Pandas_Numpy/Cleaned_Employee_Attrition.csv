@@ -1,0 +1,16 @@
+Employee_ID,Age,Department,Job_Role,Monthly_Income,Years_at_Company,Overtime,Job_Satisfaction,Attrition,Income_Level
+E001,29,Sales,Sales Executive,45000,3,Yes,4.0,No,Low
+E002,35,HR,HR Manager,52000,7,No,3.0,No,Medium
+E003,28,IT,Software Engineer,60000,2,Yes,2.0,Yes,Medium
+E004,42,Finance,Accountant,58000,10,No,4.0,No,Medium
+E005,31,Sales,Sales Executive,47000,4,Yes,3.0,Yes,Low
+E006,26,IT,Data Analyst,55000,1,Yes,2.0,Yes,Medium
+E007,39,HR,HR Executive,48000,6,No,4.0,No,Low
+E008,30,IT,Software Engineer,62000,3,Yes,3.0,No,High
+E009,33,Sales,Sales Manager,75000,8,No,4.0,No,High
+E010,27,Finance,Financial Analyst,51000,2,Yes,,Yes,Medium
+E011,36,IT,Data Scientist,85000,5,No,5.0,No,High
+E012,41,Sales,Sales Executive,49000,9,Yes,3.0,Yes,Low
+E013,24,IT,Software Engineer,54000,1,Yes,2.0,Yes,Medium
+E014,38,Finance,Accountant,60000,7,No,4.0,No,Medium
+E015,32,HR,HR Executive,47000,4,No,3.0,No,Low

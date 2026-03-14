@@ -35,3 +35,11 @@ myvenv/
 # Cache
 # ========================
 .cache/
+Deep_Learning/dataset/
+Deep_Learning/dataset2/
+
+# Model files
+*.keras
+*.pth
+*.h5
+*.model

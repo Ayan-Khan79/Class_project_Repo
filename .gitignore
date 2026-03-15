@@ -36,7 +36,7 @@ myvenv/
 # ========================
 .cache/
 Deep_Learning/dataset/
-Deep_Learning/dataset2/
+Week3_Deep_Learning/Deep_Learning/dataset2
 
 # Model files
 *.keras

@@ -43,3 +43,18 @@ Week3_Deep_Learning/Deep_Learning/dataset2
 *.pth
 *.h5
 *.model
+
+# LoRA weights and model folders
+Week3_Deep_Learning/LLMS/fraud-detector-lora/
+Week3_Deep_Learning/LLMS/fraud-lora-weights/
+Week3_Deep_Learning/LLMS/lora-finetuned-model/
+Week3_Deep_Learning/LLMS/lora-weights/
+
+# LoRA
+Week3_Deep_Learning/Deep_Learning/LLMS/fraud-detector-lora/
+Week3_Deep_Learning/Deep_Learning/LLMS/fraud-lora-weights/
+Week3_Deep_Learning/Deep_Learning/LLMS/lora-finetuned-model/
+Week3_Deep_Learning/Deep_Learning/LLMS/lora-weights/
+
+# Temp Word files
+~$*
